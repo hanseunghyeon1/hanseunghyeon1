@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hanseunghyeon1/hanseunghyeon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Rounded&color="75BDE0"&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFCC00&height=200&section=header&text=dk_%20Loopy&fontSize=90)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseunghyeon1&show_icons=true&theme=radical)
+
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
