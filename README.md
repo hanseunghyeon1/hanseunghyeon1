@@ -1,5 +1,5 @@
 ## <div align="center">Han senughyeon 🖥️💻⌨️⚽ <div>
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFCC00&height=120&section=header&text=dk_%20Loopy&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFCC00&height=120&section=header&text=dk_Loopy&fontSize=90)
 ## Github Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseunghyeon1&show_icons=true&theme=radical)
   
