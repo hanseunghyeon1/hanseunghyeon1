@@ -1,9 +1,11 @@
-## <div align="center">Han senughyeon 🖥️💻⌨️⚽ <div>
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFCC00&height=120&section=header&text=dk_Loopy&fontSize=90)
-## Github Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseunghyeon1&show_icons=true&theme=radical)
+# <div align="center">Han senughyeon 🖥️💻⌨️⚽ <div>
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFCC00&height=120&section=header&text=dk_Loopy&fontSize=80)
+
+# dktechin_repo
+- [dk_notes](https://github.com/hanseunghyeon1/dk_notes)
+- [algorithm](https://github.com/hanseunghyeon1/algorithm)
   
-## tech
+# stack
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -25,9 +27,12 @@
   
 ![Github](https://img.shields.io/badge/gitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-## backjun(2023.03 start only JAVA not python)
+# Github Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseunghyeon1&show_icons=true&theme=radical)
+  
+# backjun(2023.03 start only JAVA not python)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgus9580)](https://solved.ac/tmdgus9580/)
   
-## project
+# project
   - 2022.09~2022.12 고려대학교_SW아카데미_우수상(scene parsing AI - 시각장애인보조앱)
 
