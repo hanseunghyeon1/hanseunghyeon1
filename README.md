@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFCC00&height=120&section=header&text=dk_Loopy&fontSize=80)
 
 # dktechin_repo
-- [dk_notes](https://github.com/hanseunghyeon1/dk_notes)
+- [dk_notes(수업코드,실습,필기)](https://github.com/hanseunghyeon1/dk_notes)
 - [algorithm](https://github.com/hanseunghyeon1/algorithm)
   
 # stack
