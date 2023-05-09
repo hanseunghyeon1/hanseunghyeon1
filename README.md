@@ -33,6 +33,6 @@
 # backjun(2023.03 start only JAVA not python)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgus9580)](https://solved.ac/tmdgus9580/)
   
-# project
+# project 
   - 2022.09~2022.12 고려대학교_SW아카데미_우수상(scene parsing AI - 시각장애인보조앱)
 
