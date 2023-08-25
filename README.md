@@ -1,5 +1,5 @@
 # <div align="center">Han senughyeon 🖥️💻⌨️⚽ <div>
-- [dk_notes(수업코드,실습,필기)](https://github.com/hanseunghyeon1/dk_notes)
+- [msa_notes(수업코드,실습,필기)](https://github.com/hanseunghyeon1/dk_notes)
 - [algorithm](https://github.com/hanseunghyeon1/algorithm)
   
 # Stack
