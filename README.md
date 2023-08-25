@@ -1,11 +1,8 @@
 # <div align="center">Han senughyeon 🖥️💻⌨️⚽ <div>
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFCC00&height=120&section=header&text=dk_Loopy&fontSize=80) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&duration=3000&pause=1000&color=4E98F7B6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Don't+worry+if+it+doesn't+work+right+;IF+everything+did%2C+you'd+be+out+of+a+job)](https://git.io/typing-svg)
-# dktechin_repo
 - [dk_notes(수업코드,실습,필기)](https://github.com/hanseunghyeon1/dk_notes)
 - [algorithm](https://github.com/hanseunghyeon1/algorithm)
   
-# stack
+# Stack
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
