@@ -28,7 +28,7 @@
 # Github Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanseunghyeon1&show_icons=true&theme=radical)
   
-# backjun(2023.03 start only JAVA not python)
+# backjun
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmdgus9580)](https://solved.ac/tmdgus9580/)
   
 # project  
